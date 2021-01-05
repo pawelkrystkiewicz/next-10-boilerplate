@@ -1,0 +1,93 @@
+{
+  "landing-page": {
+    "header": {
+      "links": [
+        {
+          "title": "FAQ",
+          "link": "/faq"
+        },
+        {
+          "title": "About",
+          "link": "/about"
+        },
+        {
+          "title": "Terms and Agreements",
+          "link": "/terms"
+        }
+      ],
+      "buttons": [
+        {
+          "title": "Register",
+          "link": "/register",
+          "type": "primary"
+        },
+        {
+          "title": "Register",
+          "link": "/register",
+          "type": "secondary"
+        }
+      ],
+      "i18n": [
+        {
+          "title": "EN",
+          "tooltip": "English",
+          "link": "/en"
+        },
+        {
+          "title": "PL",
+          "tooltip": "Polski",
+          "link": "/pl"
+        }
+      ]
+    },
+    "title": "<b>Transport management</b><br/>made easy",
+    "callToAction": "Show me!",
+    "cards": {
+      "title": "Our features",
+      "data": [
+        {
+          "background": "fb",
+          "title": "Facebook",
+          "link": "https://www.facebook.com/pawelhkrystkiewicz/"
+        },
+        {
+          "background": "",
+          "title": "Fleet tracking",
+          "link": "blog/fleet-tracking"
+        },
+        {
+          "background": "",
+          "title": "Route planner",
+          "link": "/blog/route-planner"
+        },
+        {
+          "background": "",
+          "title": "Time windows",
+          "link": "blog/time-windows"
+        }
+      ]
+    },
+    "social": [
+      {
+        "background": "fb",
+        "tooltip": "Facebook",
+        "link": "https://www.facebook.com/pawelhkrystkiewicz/"
+      },
+      {
+        "icon": "linkedin",
+        "tooltip": "LinkedIn",
+        "link": "https://www.linkedin.com/in/pawelkrystkiewicz/"
+      },
+      {
+        "icon": "instagram",
+        "tooltip": "Instagram",
+        "link": "https://www.instagram.com/pawelkrystkiewicz/"
+      },
+      {
+        "icon": "email",
+        "tooltip": "Email us!",
+        "link": "mailto:pawelkrystkiewicz@outlook.com"
+      }
+    ]
+  }
+}
